@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 , I'm Wu 😄  
+
+Currently working in lwy, he is a front-end developer  
+
+Welcome to make a friend
+
+
 
 <!--
 **wushijiang13/wushijiang13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
