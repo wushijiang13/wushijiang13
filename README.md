@@ -1,6 +1,6 @@
 ### Hi there 👋 , I'm Wu 😄  
 
-Currently working in lwy, A front end developer
+Currently working in huan网 , A front end developer
 
 Welcome to make a friend
 
