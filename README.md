@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wushijiang13&show_icons=true&theme=merko)
 
-[Personal website](http://wushijiang.cn/)
+[Personal website](www.wushijiang.cn/blog/#/)
