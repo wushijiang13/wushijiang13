@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wushijiang13&show_icons=true&theme=merko)
 
 [Personal website](https://www.wushijiang.cn/blog/#/)
+
+![](https://komarev.com/ghpvc/?username=wushijiang13)
+
+![](http://profile-counter.glitch.me/wushijiang13/count.svg)
