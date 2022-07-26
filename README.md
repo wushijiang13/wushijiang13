@@ -1,30 +1,16 @@
-### Hi there 👋 , I'm Wu 😄  
+### 你好啊，我是阿吴😺
 
-Currently working in huan网 , A front end developer
+我会出没在以下地方:
 
-Welcome to make a friend
+- 🔭 我目前是欢网的一名前端开发工程师
+- 🌱 博客：[个人博客](https://www.wushijiang.cn/blog/#/) | [掘金](https://juejin.cn/user/2172290706442423)
+- 💬 微信：LoseerX
+- 📫 邮箱：2056843733@qq.com
+- 😄 视频：[B站](https://space.bilibili.com/33454876?spm_id_from=333.1007.0.0)
 
+<img src='https://github-readme-stats.vercel.app/api?username=wushijiang13&show_icons=true&theme=merko'/>
 
-
-<!--
-**wushijiang13/wushijiang13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wushijiang13&show_icons=true&theme=merko)
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=wushijiang13&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn'/>
 
 [Personal website](https://www.wushijiang.cn/blog/#/)
 
-![](https://komarev.com/ghpvc/?username=wushijiang13)
-
-![](http://profile-counter.glitch.me/wushijiang13/count.svg)
