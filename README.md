@@ -10,6 +10,6 @@
 - 👯 爱好：心理学、电影、游戏、音乐、吃小吃~
  
 ## 总结 ⭐️
-<img align='' height='150' src='https://github-readme-stats.vercel.app/api?username=wushijiang13&show_icons=true&theme=dracula&locale=cn'/><img align='' height='150' src='https://github-readme-stats.vercel.app/api/top-langs/?username=wushijiang13&hide_title=true&hide_border=true&layout=compact&theme=dracula&locale=cn'/>
+<img align='' height='150' src='https://github-readme-stats.vercel.app/api?username=wushijiang13&show_icons=true&theme=dracula&locale=cn'/><img align='' height='150' src='https://github-readme-stats.vercel.app/api/top-langs/?username=wushijiang13&hide_title=true&layout=compact&theme=dracula&locale=cn'/>
 
 
