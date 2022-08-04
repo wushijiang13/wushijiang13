@@ -19,8 +19,7 @@
 ## 总结
 
 <img align='' height='150' src='https://github-readme-stats.vercel.app/api?username=wushijiang13&show_icons=true&theme=dracula&locale=cn'/><img align='' height='150' src='https://github-readme-stats.vercel.app/api/top-langs/?username=wushijiang13&hide_title=true&layout=compact&theme=dracula&locale=cn'/>
-
-<p><img align='' height='150' src="https://github-readme-streak-stats.herokuapp.com/?user=wushijiang13&" alt="wushijiang13"&layout=compact&theme=dracula&locale=cn' /></p>
+<img align='' height='150' src="https://github-readme-streak-stats.herokuapp.com/?user=wushijiang13&theme=dracula&locale=cn" alt="wushijiang13" />
 
 
 
