@@ -1,4 +1,4 @@
-<h1 align="center">嗨👋，我是阿吴</h1>
+<h1 align="center">嗨👋，我是阿江</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wushijiang13&label=Profile% 20views&color=0e75b6&style=flat" alt="wushijiang13" /> </p>
 
 <h3 align="left">联系我：</h3>
