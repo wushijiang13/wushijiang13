@@ -3,7 +3,7 @@
 
 <h3 align="left">联系我：</h3>
 
-- 🔭 我目前是欢网的一名前端开发工程师  
+- 🔭 我目前是一名前端开发工程师  
 - 🌱 博客：[个人博客](https://www.wushijiang.cn/blog/#/) | [掘金](https://juejin.cn/user/2172290706442423)  
 - 💬 微信：LoseerX  
 - 📫 邮箱：2056843733@qq.com  
